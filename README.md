@@ -29,25 +29,7 @@ This repository represents the final submission for a group assignment. The proj
 ---
 
 ## 📂 Repository Structure
-.
-├── .gitignore
-├── LICENSE
-├── README.md
-├── notebook/
-│ ├── IDA_Assignment_Team_2.ipynb # Main analysis notebook
-│ ├── airline_passenger_satisfaction.csv # Raw dataset used by the notebook
-│ └── data_dictionary.csv # Dataset feature descriptions
-├── report/
-│ ├── IDA Group Final Report Team 2.pdf # Final written report
-│ └── IDA Proposal Team 2.pdf # Initial project proposal
-└── streamlit_app/
-├── app.py # Main Streamlit application script
-├── requirements.txt # Python dependencies for the app
-├── final_xgboost_model.joblib # The trained and exported model
-├── final_features.json # The 10 features the model requires
-├── airline_data_final_10_features.csv # Template file for batch prediction
-├── airline_data_for_charts.csv # Cleaned data for EDA charts
-└── ... # Other data files generated/used by the app
+** . ├── .gitignore ├── LICENSE ├── README.md ├── notebook/ │ ├── IDA_Assignment_Team_2.ipynb # Main analysis notebook │ ├── airline_passenger_satisfaction.csv # Raw dataset used by the notebook │ └── data_dictionary.csv # Dataset feature descriptions ├── report/ │ ├── IDA Group Final Report Team 2.pdf # Final written report │ └── IDA Proposal Team 2.pdf # Initial project proposal └── streamlit_app/ ├── app.py # Main Streamlit application script ├── requirements.txt # Python dependencies for the app ├── final_xgboost_model.joblib # The trained and exported model ├── final_features.json # The 10 features the model requires ├── airline_data_final_10_features.csv # Template file for batch prediction ├── airline_data_for_charts.csv # Cleaned data for EDA charts └── ... # Other data files generated/used by the app **
 
 
 ---
