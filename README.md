@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction Prediction & Analysis
+# Airline Passenger Satisfaction Prediction
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
