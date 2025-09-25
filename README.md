@@ -11,9 +11,9 @@ The final deliverable is a fully functional, interactive web application built w
 ## 🏛️ Project Context & Team
 
 This repository represents the final submission for a group assignment. The project was developed collaboratively by:
-- **Heng Ee Sern** (TP081786) - Team Leader, XGBoost Modeling, SHAP Interpretation, Streamlit Development
-- **Tan Hao Shuan** (TP080852) - EDA, Feature Selection, Random Forest Modeling
-- **Laeu Zi-Li** (TP083604) - Business Domain, Methodology, Logistic Regression Modeling
+- **Heng Ee Sern** 
+- **Tan Hao Shuan** 
+- **Laeu Zi-Li** 
 
 ---
 
