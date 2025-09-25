@@ -29,6 +29,7 @@ This repository represents the final submission for a group assignment. The proj
 ---
 
 ## 📂 Repository Structure
+```
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -47,7 +48,7 @@ This repository represents the final submission for a group assignment. The proj
     ├── airline_data_final_10_features.csv  # Template file for batch prediction
     ├── airline_data_for_charts.csv         # Cleaned data for EDA charts
     └── ...                                 # Other data files generated/used by the app
-
+```
 
 ---
 
